@@ -1,0 +1,27 @@
+<svg width="520" height="520" viewBox="0 0 520 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="520" height="520" rx="60" fill="#FFF7FB"/>
+<circle cx="260" cy="260" r="200" fill="#FFE6F0"/>
+<circle cx="387" cy="137" r="44" fill="#EDE1FF"/>
+<circle cx="121" cy="148" r="28" fill="#D8F5EC"/>
+<ellipse cx="260" cy="418" rx="118" ry="20" fill="#F6D6E4"/>
+<path d="M223 173C223 143.728 246.728 120 276 120C305.272 120 329 143.728 329 173V267H223V173Z" fill="#F4B6C8"/>
+<path d="M202 256C202 222.863 228.863 196 262 196H272C326.124 196 370 239.876 370 294V359C370 376.121 356.121 390 339 390H284C238.712 390 202 353.288 202 308V256Z" fill="#E98BB0"/>
+<path d="M276 213C316.869 213 350 246.131 350 287V305H228V261C228 234.49 249.49 213 276 213Z" fill="#F6C3D2"/>
+<circle cx="287" cy="182" r="37" fill="#FFD9C8"/>
+<path d="M259 183C259 165.327 273.327 151 291 151H300C317.673 151 332 165.327 332 183V190H259V183Z" fill="#7C6571"/>
+<path d="M252 202C252 194.82 257.82 189 265 189H308C315.18 189 321 194.82 321 202V203C321 215.703 310.703 226 298 226H275C262.297 226 252 215.703 252 203V202Z" fill="#FFD9C8"/>
+<circle cx="274" cy="199" r="3.5" fill="#6A4F5C"/>
+<circle cx="302" cy="199" r="3.5" fill="#6A4F5C"/>
+<path d="M280 212C284.964 215.255 291.036 215.255 296 212" stroke="#D67A97" stroke-width="3" stroke-linecap="round"/>
+<path d="M306 267C334.166 267 357 289.834 357 318V356C357 372.569 343.569 386 327 386H302C289.85 386 280 376.15 280 364V293C280 278.641 291.641 267 306 267Z" fill="#FFD9C8"/>
+<circle cx="329" cy="321" r="48" fill="#FFF3F7"/>
+<path d="M327 283C350.748 283 370 302.252 370 326C370 349.748 350.748 369 327 369C303.252 369 284 349.748 284 326C284 302.252 303.252 283 327 283Z" fill="#FFF1F6"/>
+<circle cx="315" cy="319" r="5" fill="#6A4F5C"/>
+<circle cx="340" cy="319" r="5" fill="#6A4F5C"/>
+<path d="M316 336C321.834 340.62 332.166 340.62 338 336" stroke="#D67A97" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M248 259C242.667 274.333 238 289.667 234 305" stroke="#D96D97" stroke-width="6" stroke-linecap="round"/>
+<path d="M370 294C382.5 301.167 392.333 311 399.5 323.5" stroke="#D96D97" stroke-width="6" stroke-linecap="round"/>
+<path d="M91 357C112.5 337.5 132.833 332.5 152 342" stroke="#9FD8CA" stroke-width="8" stroke-linecap="round"/>
+<path d="M404 183C417 171 431.667 168.333 448 175" stroke="#A57BC7" stroke-width="8" stroke-linecap="round"/>
+<path d="M119 115C127.4 108.2 135.8 108.167 144.2 114.9" stroke="#9FD8CA" stroke-width="7" stroke-linecap="round"/>
+</svg>
